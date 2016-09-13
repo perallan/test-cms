@@ -1,2 +1,1 @@
-# test-cms
-Jekyll test site
+# hugo-demo
